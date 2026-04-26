@@ -1,0 +1,7 @@
+name: astrbot_plugin_starfate_message_formatter
+display_name: StarFate 消息格式化
+version: 1.0.0
+description: 将角色扮演中动作描写和对话分开发送
+author: YHJM
+license: MIT
+astrbot_version: ">=4.0.0"
